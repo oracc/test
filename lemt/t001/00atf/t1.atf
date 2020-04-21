@@ -1,0 +1,10 @@
+&P405316 = Nisaba 04/2, 04
+#project: test/lemt/t001
+#atf: use mylines
+#atf: lang akk-x-oldbab
+#atf: use math
+#atf: use unicode
+
+11. MUNUS.TUR
+#lem: ṣehertu[girl]N
+

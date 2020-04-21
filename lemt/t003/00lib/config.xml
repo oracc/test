@@ -1,0 +1,17 @@
+<project n="test/lemt/t003" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <name>test/lemt/DCCLT Sumerian Tests</name>
+  <abbrev>test/lemt/t003</abbrev>
+  <project-type>user</project-type>
+  <type>corpus</type>
+  <logo type="text">test/lemt/t003</logo>
+  <option name="%sux" value="test/lemt/epsd2"/>
+<option name="build-approved-policy" value="atf"/>
+<option name="build-outlined-policy" value="atf"/>
+<option name="catalog-build-policy" value="auto"/>
+<option name="cbd-mode" value="mixed"/>
+<option name="outline-default-select" value="true"/>
+<option name="outline-default-sort-fields" value="period,genre,provenience"/>
+<option name="outline-default-sort-labels" value="Time,Genre,Place"/>
+</project>

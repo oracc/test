@@ -1,0 +1,8 @@
+&P235192 = NBDM 91
+#project: test/lemt/t002
+#atf: use unicode
+#atf: use mylines
+#atf: lang akk-x-ltebab
+#atf: use math
+1. DUMU
+#lem: māru[son]N

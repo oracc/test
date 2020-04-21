@@ -1,0 +1,12 @@
+@project test/lemt/t001
+@lang akk-x-oldbab
+@name test/lemt/t001, akk-x-oldbab
+
+@entry ṣehertu [(little) girl] N
+@form MUNUS.TUR.RA $ṣehertu
+@form MUNUS.TUR $ṣehertu
+@form MUNUS.TUR $ṣehrētu
+@form MUNUS.TUR.RA $ṣehrētu
+@sense AJ young
+@sense N girl
+@end entry

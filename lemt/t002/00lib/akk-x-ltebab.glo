@@ -1,0 +1,14 @@
+@project test/lemt/t002
+@lang akk-x-ltebab
+@name test/lemt/t002, akk-ltebab
+
+@entry māru [son] N
+@form DUMU $mār
+@form DUMU $māri
+@form DUMU $māru
+@form DUMU $mārī
+@form DUMU $mārū
+@sense N son
+@sense N descendant
+@end entry
+
